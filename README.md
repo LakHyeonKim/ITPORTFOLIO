@@ -41,8 +41,14 @@ talentX is MIT licensed, as found in the [LICENSE][LICENSE] file.
 [HOMEPAGE]: https://www.talentx.co.kr
 [LICENSE]: https://github.com/ArthurSHan/ITPORTFOLIO/blob/master/LICENSE
 
-### 이모지
+### Emoji Ref
 https://gist.github.com/rxaviers/7360908
 
-### DILLINGER
+### DILLINGER Ref
 https://dillinger.io/
+
+### Commit message Ref
+https://udacity.github.io/git-styleguide/
+
+### License Ref
+https://choosealicense.com/
